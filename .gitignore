@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+backend/resumate.db
+backend/.venv/
+.venv/
+backend/.packages/
+backend/pip_compat/
+frontend/node_modules/
+frontend/dist/
+frontend/*.tsbuildinfo
+.DS_Store
